@@ -1,5 +1,5 @@
 # wmf  
-Using libwmf to chang *.wmf file to JPG,PNG,SVG files .
+Using libwmf to change *.wmf file to JPG,PNG,SVG files .
 
 ## Getting started  
 First download and install [libwmf](http://wvware.sourceforge.net/libwmf.html).  
